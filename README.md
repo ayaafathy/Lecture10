@@ -1,10 +1,8 @@
-# responsive02
+# Responsive02
 
-A new Flutter project.
+An Example for Responsive app for displaying personal transactions
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
